@@ -1,0 +1,41 @@
+.nav-main{
+    background-color: rgb(248, 248, 248);
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 55px;
+    align-items: center;
+}
+.top-nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(255, 0, 98);
+    padding: 15px 40px;
+}
+.top-1{
+    display: flex;
+    gap: 15px;
+}
+.top-1 li{
+    list-style: none;
+}
+.top-2{
+    display: flex;
+    gap: 15px;
+}
+.top-2 li{
+    list-style: none;
+}
+.nav-main ul{
+    list-style: none;
+    display: flex;
+    gap: 25px;
+    padding: 10px 10px;
+}
+.btn-n {
+    padding: 5px 5px;
+    background-color: rgb(255, 238, 0);
+    color: aliceblue;
+
+    border: none;
+    border-radius: 15px;
+}

@@ -1,0 +1,43 @@
+.main-featched {
+    background-image: url("../assets/images/featch-1.jpg");
+    /* width: 1024px; */
+    height: 450px;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    background-size: cover;
+    /* position: ; */
+    
+}
+.image-container{
+  
+    padding-top: 140px;
+    padding-left: 60px;
+    width: 480px;
+}
+.image-container h1{
+    color: rgb(252, 252, 252);
+    padding-top: 25px;
+}
+.image-container p{
+    color: rgb(252, 252, 252);
+    padding: 10px;
+}
+.btn-div{
+    /* padding-right: 10px; */
+    margin: 10px 10px;
+    display: flex;
+    gap: 25px;
+}
+.btn-1{
+    padding: 8px 10px;
+    background-color: darkorange;
+    border: none;
+    border-radius: 10px;
+}
+.btn-2{
+    padding: 8px 10px;
+    background-color: aliceblue;
+    border: none;
+    border-radius: 10px;
+
+}
